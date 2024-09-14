@@ -7,6 +7,7 @@
    📫 How to reach me: mail@mariannedillard.com  
    Or Connect with Me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dillardm)  
    
+## 
 ### Project Specifications:
 
 - Create complete site with apps for task management, expense tracker, and journaling
