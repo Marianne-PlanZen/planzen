@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Marianne-PlanZen)
 
-   👱‍♀️ [![Check out my personal GitHub]](https://www.github.com/dillardm89)  
-   💡 [![Learn more about me]](https://www.mariannedillard.com)  
+   👱‍♀️ [[Check out my personal GitHub]](https://www.github.com/dillardm89)  
+   💡 [[Learn more about me]](https://www.mariannedillard.com)  
    📫 How to reach me: mail@mariannedillard.com  
    Or Connect with Me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/dillardm)  
    
